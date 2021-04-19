@@ -30,14 +30,24 @@ class MainActivity : AppCompatActivity() {
             arrayListOf(
                 Contact(
                     name = "Nei Dutra",
-                    phone = "51999999999",
+                    phone = "(51)99999-9999",
                     photograph = "img.png"
                 ),
                 Contact(
-                    name = "Nei Dutra",
-                    phone = "51999999999",
+                    name = "João Dalton",
+                    phone = "(51)99999-9999",
                     photograph = "img.png"
-            )
+                ),
+                Contact(
+                    name = "Maria Person",
+                    phone = "(51)99999-9999",
+                    photograph = "img.png"
+                ),
+                Contact(
+                    name = "Janice Gotler",
+                    phone = "(51)99999-9999",
+                    photograph = "img.png"
+                )
             )
         )
     }
